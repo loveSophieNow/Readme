@@ -1,4 +1,4 @@
-<img src"image/깨어나세요 용사여.png"></img>
+<img src"image/wakeup.png"></img>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=DangtangEee)](https://github.com/DangtangEee)
 
