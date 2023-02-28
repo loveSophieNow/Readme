@@ -1,4 +1,4 @@
-<img src"image/wakeup.png"></img>
+<img src='image/wakeup.jpg' width=300 height=200> </img>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=DangtangEee)](https://github.com/DangtangEee)
 
